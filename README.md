@@ -5,11 +5,11 @@ Já formada em administração, estudante de Engenharia de Software, criando nov
 
 ### Detalhes
 
-[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=juZanelato&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=JuZanelato&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
 
 ### Projetos
-[![Readme Card](httpsgithub-readme-stats.vercel.appapipinusername=githubjuZanelato&repo=variavel&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+[![Readme Card](httpsgithub-readme-stats.vercel.appapipinusername=githubJuZanelato&repo=variavel&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
 
 ### Linguagens utilizadas
 
-[![Top Langs](httpsgithub-readme-stats.vercel.appapitop-langsusername=githubjuZanelato&layout=compact)](httpsgithub.comanuraghazragithub-readme-stats)
+[![Top Langs](httpsgithub-readme-stats.vercel.appapitop-langsusername=githubJuZanelato&layout=compact)](httpsgithub.comanuraghazragithub-readme-stats)
